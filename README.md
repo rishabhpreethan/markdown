@@ -116,7 +116,9 @@ To check the task replace the space between the bracket with "x".
 [ ] Update the website
 [ ] Contact the user
 ```
-
+```[tasklist]
+### Tasks
 [x] Write the post
 [ ] Update the website
 [ ] Contact the user
+```

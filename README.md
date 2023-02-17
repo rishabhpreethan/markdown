@@ -112,9 +112,7 @@ Ex: [ <space> ] and add text for task.
 To check the task replace the space between the bracket with "x".
 
 
-```[tasklist]
 ### Tasks
 - [x] Write the post
 - [ ] Update the website
 - [ ] Contact the user
-```

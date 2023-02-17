@@ -4,7 +4,6 @@ Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you 
 
 
 ---
-## Cheat-Sheet
 
 ### Headings
 ```markdown
@@ -100,6 +99,12 @@ The outer pipes (|) are optional, and you don't need to make the raw Markdown li
 | col1 | col2 | col3 |
 ```
 
+| Heading 1 | Heading 2 | Heading 3 |
+|---|---|---|
+| col1 | col2 | col3 |
+| col1 | col2 | col3 |
+
+
 ### Task list
 
 To create a task list start line with square brackets with an empty space.
@@ -112,6 +117,6 @@ To check the task replace the space between the bracket with "x".
 [ ] Contact the user
 ```
 
-## Reference
-
-Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
+[x] Write the post
+[ ] Update the website
+[ ] Contact the user

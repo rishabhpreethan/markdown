@@ -113,6 +113,6 @@ To check the task replace the space between the bracket with "x".
 
 
 ### Tasks
-- [x] Write the post
+- [ ] Write the post
 - [ ] Update the website
 - [ ] Contact the user

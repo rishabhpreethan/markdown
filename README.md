@@ -111,11 +111,10 @@ To create a task list start line with square brackets with an empty space.
 Ex: [ <space> ] and add text for task.
 To check the task replace the space between the bracket with "x".
 
+
 ```
-```[tasklist]
 ### Tasks
-[x] Write the post
-[ ] Update the website
-[ ] Contact the user
-```
+- [x] Write the post
+- [ ] Update the website
+- [ ] Contact the user
 ```
